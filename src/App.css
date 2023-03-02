@@ -1,3 +1,15 @@
+@media(max-width: 600px){
+    .question {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    button.chakra-button {
+        width: 330px;
+        font-size: 3.3vw;
+        white-space: normal;
+    }
+}
+
 button.chakra-button {
     width: fit-content;
     text-align: center;
