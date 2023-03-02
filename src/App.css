@@ -1,0 +1,15 @@
+button.chakra-button {
+    width: fit-content;
+    text-align: center;
+}
+.btnAnswer {
+    text-align: center;
+}
+.value {
+    font-size: 40px;
+}
+
+.timer {
+    text-align: center;
+    color: purple;
+}
